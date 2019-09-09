@@ -1,0 +1,9 @@
+C:\Users\rafi\source\repos\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp2.2\WebApplication2.Data.deps.json
+C:\Users\rafi\source\repos\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp2.2\WebApplication2.Data.dll
+C:\Users\rafi\source\repos\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp2.2\WebApplication2.Data.csproj.CoreCompileInputs.cache
+C:\Users\rafi\source\repos\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp2.2\WebApplication2.Data.AssemblyInfoInputs.cache
+C:\Users\rafi\source\repos\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp2.2\WebApplication2.Data.AssemblyInfo.cs
+C:\Users\rafi\source\repos\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp2.2\WebApplication2.Data.pdb
+C:\Users\rafi\source\repos\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp2.2\WebApplication2.Data.csprojAssemblyReference.cache
+C:\Users\rafi\source\repos\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp2.2\WebApplication2.Data.dll
+C:\Users\rafi\source\repos\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp2.2\WebApplication2.Data.pdb
